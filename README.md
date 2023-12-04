@@ -1,4 +1,5 @@
 # Exact Change Calculator
+LeanTECHniques Technical Showcase
 
 ## Introduction
 Change Calculator is a simple React application that helps users calculate the least amount of change possible for a given amount of money. The app is built with Vite and React, offering a fast and modern development experience.

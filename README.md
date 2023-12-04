@@ -11,6 +11,8 @@ Change Calculator is a simple React application that helps users calculate the l
 - Fast and reliable unit testing with Vitest to ensure code quality and functionality.
 - Error handling and user guidance for a seamless user experience.
 
+![Screenshot 2023-12-03 at 23-20-03 Exact Change Calculator](https://github.com/nick-neely/exact-change-calculator/assets/49537823/1bfc5c52-07e5-43e3-82bf-1006fdbd31ec)
+
 ## Getting Started
 
 ### Prerequisites

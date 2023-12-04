@@ -66,7 +66,7 @@ To execute the tests, run:
 pnpm test
 ```
 
-This will run the tests defined in your `*.test.tsx` files using Vitest and provide the results in the terminal.
+This will run the tests defined in the `*.test.tsx` files using Vitest and provide the results in the terminal.
 
 ## License
 

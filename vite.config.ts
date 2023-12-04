@@ -1,7 +1,7 @@
 import path from "path";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
-import { UserConfig } from "vitest/config";
+import { UserConfig as VitestUserConfig } from "vitest/config";
 
 export default defineConfig({
   plugins: [react()],
@@ -14,4 +14,4 @@ export default defineConfig({
     globals: true,
     environment: "jsdom",
   },
-});
+} as VitestUserConfig);

@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { calculateChange } from "../components/ChangeForm";
+import { calculateChange } from "../lib/calculateChange";
 
 describe("calculateChange Function", () => {
   it("correctly calculates change for a given amount", () => {
